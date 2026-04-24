@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -90,7 +89,7 @@
     <!-- 🔹 Selamat Datang -->
     <div class="welcome">
         <h1>Selamat Datang 👋</h1>
-        <p>Website kamu sudah berjalan!</p>
+        <p>Website ini digunakan dalam praktikum EC2 Deploy oleh kelompok 2</p>
     </div>
 
     <!-- 🔹 Judul -->
@@ -100,29 +99,29 @@
     <div class="container">
 
         <div class="card">
-            <img src="images/fikri.jpeg">
+            <img src="fikri.jpeg">
             <div class="card-body">
                 <h3>Ahmad Fikri Fauzan</h3>
-                <p>No Absen: 01</p>
-                <p>Kelas: XI RPL</p>
+                <p>No Absen: 03</p>
+                <p>Kelas: XI RPL 8</p>
             </div>
         </div>
 
         <div class="card">
-            <img src="images/roy.jpeg">
+            <img src="roy.jpeg">
             <div class="card-body">
                 <h3>Ahmad Zainur Royyan</h3>
-                <p>No Absen: 02</p>
-                <p>Kelas: XI RPL</p>
+                <p>No Absen: 06</p>
+                <p>Kelas: XI RPL 8</p>
             </div>
         </div>
 
         <div class="card">
-            <img src="images/natanz.jpeg">
+            <img src="natanz.jpeg">
             <div class="card-body">
                 <h3>Natanz Meshaal Saptoaji</h3>
-                <p>No Absen: 03</p>
-                <p>Kelas: XI RPL</p>
+                <p>No Absen: 26</p>
+                <p>Kelas: XI RPL 8</p>
             </div>
         </div>
 
@@ -134,4 +133,3 @@
 
 </body>
 </html>
-```
